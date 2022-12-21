@@ -1,0 +1,15 @@
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.csproj.AssemblyReference.cache
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.AssemblyInfoInputs.cache
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.AssemblyInfo.cs
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.csproj.CoreCompileInputs.cache
+C:\Users\ббб\Desktop\final task\task\bin\Debug\net6.0\final task.exe
+C:\Users\ббб\Desktop\final task\task\bin\Debug\net6.0\final task.deps.json
+C:\Users\ббб\Desktop\final task\task\bin\Debug\net6.0\final task.runtimeconfig.json
+C:\Users\ббб\Desktop\final task\task\bin\Debug\net6.0\final task.dll
+C:\Users\ббб\Desktop\final task\task\bin\Debug\net6.0\final task.pdb
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.dll
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\refint\final task.dll
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.pdb
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\final task.genruntimeconfig.cache
+C:\Users\ббб\Desktop\final task\task\obj\Debug\net6.0\ref\final task.dll
