@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ббб\\Desktop\\final task\\final task.csproj": {}
+    "C:\\Users\\ббб\\Desktop\\final task\\task\\final task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ббб\\Desktop\\final task\\final task.csproj": {
+    "C:\\Users\\ббб\\Desktop\\final task\\task\\final task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ббб\\Desktop\\final task\\final task.csproj",
+        "projectUniqueName": "C:\\Users\\ббб\\Desktop\\final task\\task\\final task.csproj",
         "projectName": "final task",
-        "projectPath": "C:\\Users\\ббб\\Desktop\\final task\\final task.csproj",
+        "projectPath": "C:\\Users\\ббб\\Desktop\\final task\\task\\final task.csproj",
         "packagesPath": "C:\\Users\\ббб\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ббб\\Desktop\\final task\\obj\\",
+        "outputPath": "C:\\Users\\ббб\\Desktop\\final task\\task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ббб\\AppData\\Roaming\\NuGet\\NuGet.Config"
